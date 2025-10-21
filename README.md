@@ -57,3 +57,31 @@ Requirement Analysis involves several key activities that ensure the system meet
 - **Requirement Validation:**  
   Reviewing requirements with stakeholders to ensure they are accurate, complete, consistent, and aligned with business goals before development begins.
 
+## Types of Requirements
+
+### Functional Requirements
+
+**Definition:**  
+Functional requirements specify **what the system should do**—the core functionalities that the system must support to meet user needs.
+
+**Examples for the Hotel Booking Management System:**
+
+- **User Registration:** Users must be able to create an account by providing personal details, email, and password.
+- **Room Search:** Users should be able to search for available rooms based on criteria like location, dates, and room type.
+- **Booking Management:** Users can book, modify, or cancel reservations through the system.
+- **Payment Processing:** The system must support secure payment methods for booking confirmations.
+- **User Authentication:** Implement login and logout functionalities to secure user sessions.
+
+### Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements describe **how the system performs**—the quality attributes that the system must exhibit.
+
+**Examples for the Hotel Booking Management System:**
+
+- **Performance:** The system should handle up to 500 transactions per second during peak times.
+- **Scalability:** The architecture must support scaling to accommodate increasing numbers of users and data.
+- **Availability:** The system should ensure 99.9% uptime, providing continuous service availability.
+- **Security:** Implement encryption for sensitive data and comply with industry standards for data protection.
+- **Usability:** The user interface should be intuitive and accessible across various devices and browsers.
+
