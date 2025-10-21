@@ -114,6 +114,10 @@ Below is a use case diagram for the hotel booking system, illustrating the main 
 - Process Payment  
 - Manage Listings (Admin)  
 
+**Diagram:**  
+
+[Booking System Use Case Diagram](alx-booking-uc.png)
+
 ## Acceptance Criteria
 
 **Definition:**  
