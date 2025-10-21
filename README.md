@@ -114,7 +114,27 @@ Below is a use case diagram for the hotel booking system, illustrating the main 
 - Process Payment  
 - Manage Listings (Admin)  
 
-**Diagram:**  
+## Acceptance Criteria
 
-[Booking System Use Case Diagram](alx-booking-uc.png)
+**Definition:**  
+**Acceptance Criteria** are the specific conditions or standards that a feature must meet to be considered complete and acceptable by stakeholders. They define what “done” means for a requirement and ensure that the delivered functionality aligns with user expectations.
+
+**Importance in Requirement Analysis:**  
+
+- Ensures clarity on what needs to be delivered for each feature.  
+- Reduces misunderstandings between stakeholders and the development team.  
+- Helps in **testing and validation** by providing measurable conditions for success.  
+- Prevents scope creep by clearly defining boundaries for feature completion.  
+
+**Example: Checkout Feature in the Booking Management System**
+
+For the **Checkout** feature, the acceptance criteria could include:
+
+1. Users can review their booking details before final confirmation.  
+2. Payment options (credit card, PayPal, etc.) are available and functional.  
+3. Successful payment triggers a booking confirmation email.  
+4. Users cannot proceed with checkout if required fields (e.g., payment information, contact details) are missing.  
+5. The system updates room availability immediately after a successful booking.  
+6. The checkout process should complete within 10 seconds under normal load.
+
 
